@@ -9,6 +9,7 @@ At the Admin GUI the user will be able to perform the next activities: • see a
 * This program was designed with sqlite Studio for mac. Please refer to references to find installation steps and instruction about how to use it. 
 * Check this video for an explanation on how this program works:
 https://www.youtube.com/watch?v=M4g3ncXMiVw&t=3s
+* Refer to the folder DOC to find java documentation.
 ##                                                                                                              
 ### HOW THE PROGRAM WORKS:
 
@@ -39,6 +40,20 @@ User GUI :
 
 This interface allows the user to only view the client’s records, and to perform searches by ID.
 
+##                                                                                                              
+### UML DIAGRAMS:
+
+**Admin Package UML Diagram:**
+![admin package uml diagram](https://user-images.githubusercontent.com/42677141/49692428-bba1b200-fb28-11e8-94c0-416a274b9bb8.png)
+
+**Database Package UML Diagram:**
+![database package uml diagram](https://user-images.githubusercontent.com/42677141/49692430-da07ad80-fb28-11e8-9a67-f6818e274e65.png)
+
+**Login Package UML Diagram:**
+![login package uml diagram](https://user-images.githubusercontent.com/42677141/49692435-e4c24280-fb28-11e8-86f4-d10f44dfe3c9.png)
+
+**User Package UML Diagram:**
+![users package - uml diagram](https://user-images.githubusercontent.com/42677141/49692437-ee4baa80-fb28-11e8-9d28-31e5f2e8aaec.png)
 ##                                                                                                              
 ### ABOUT THE EVALUATION RUBRIC FOR THIS GUI DATABASE 2:
 
